@@ -15,5 +15,6 @@ App de demostración de ExoPlayer: El repositorio oficial contiene una app de de
 Codelab: Muestra cómo crear una actividad que reproduzca contenido multimedia con ExoPlayer.
 Códigos de ejemplo adicionales
 La muestra DeviceOwner demuestra aún más el uso de las API que se abordan en esta página.
+GUIA KOTLIN:https://cutt.ly/DAlgpWP
 
-https://blogprogrammersguides.blogspot.com/2022/01/Reproducir-Radios-Online-en-Android-Studio-Kotlin-usando-ArrayOf-ExoPlayer.html
+DESCARGAR PROYECTO:https://cutt.ly/CAlgeL8
