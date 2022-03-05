@@ -11,5 +11,6 @@ Ejemplo de código Existen varias apps de muestra en las que se demuestra cómo 
 
 UAMP: El reproductor de música universal usa ExoPlayer para la reproducción de audio local. App de demostración de ExoPlayer: El repositorio oficial contiene una app de demostración que muestra muchas capacidades avanzadas de la biblioteca. Codelab: Muestra cómo crear una actividad que reproduzca contenido multimedia con ExoPlayer. Códigos de ejemplo adicionales La muestra DeviceOwner demuestra aún más el uso de las API que se abordan en esta página.
 GUIA KOTLIN:https://cutt.ly/DAlgpWP
+
 DESCARGAR PROYECTO:https://cutt.ly/CAlgeL8
 
